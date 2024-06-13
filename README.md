@@ -5,9 +5,11 @@
 ![Size](https://img.shields.io/badge/Size-346Ko-f12222)
 ![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
+Created and Publish by- Dhirendra Kumar Gupta
+
 <br/>
 
-This repository contains the source code of a web page that can generate and solve mazes using several algorithms. You can also move the start and the finish or draw your own walls.
+This repository contains the source code of a web page that can generate and solve mazes using several algorithms. You can also move the start and the finish or draw your own walls. Or some one use it as game of finding shortest path then check with algorithm.
 
 
 
